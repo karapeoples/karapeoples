@@ -3,9 +3,9 @@
 You found me! I am Kara Renee Peoples! Full Stack Web Developer, which feels good to say, it has been a long path to get a passion that can be work. Nice to Meet Ya:
 
 
-- 🔭 I’m currently working on finishing up Lambda School
-- 🌱 I’m currently learning more about Progressive Web Apps
-- 👯 I’m looking to collaborate on nothing in particular but feel free to reach out you never know :)
+- 🔭 Lambda School Graduate
+- 🌱 I’m currently doing a deep dive into React with TypeScript and Testing
+- 👯 I’m looking for ideas for small apps to keep me busy while I look for my first role :)
 - 🤔 I’m looking for help with starting my career. Know anything feel free to pass some info my way.
 - 💬 Ask me about most anything I am pretty honest and I try to treat others as I want to be treated.
 - 📫 How to reach me: kararpeoples@yahoo.com or @SpookRazorII on Twitter or look me up by name on LinkedIn or Facebook
