@@ -3,9 +3,9 @@
 You found me! I am Kara Renee Peoples! Full Stack Web Developer and Quality Assurance Engineer, which feels good to say, it has been a long path to get a passion that can be work. Nice to Meet Ya:
 
 
-- 🔭 Lambda School Graduate/Alumni
-- 🌱 I’m currently in training at Genspark to be a Quality Assurance Engineer
-- 👯 I’m looking for Java, Selenium, and Jira Practice
+- 🔭 Lambda School Graduate/Alumni aka BloomTech
+- 🌱 I’m currently a System Test Analyst with Accenture. Through Genspark. (Ask me about Genspark)
+- 👯 I’m looking to work on my AWS Cloud Practioner Certification
 - 🤔 I’m looking for help with D&D Group Members.
 - 💬 Ask me about most anything I am pretty honest and I try to treat others as I want to be treated.
 - 📫 How to reach me: kararpeoples.dev@gmail.com or @KaraPeoples_Dev on Twitter or look me up by name on LinkedIn or Facebook
