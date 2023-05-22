@@ -4,7 +4,7 @@ You found me! I am Kara Renee Peoples! Web Development Evangalist, FullStack Eng
 
 
 - 🔭 Lambda School Graduate/Alumni aka BloomTech
-- 🌱 I’m currently a System Test Analyst with Accenture. Through Genspark.
+- 🌱 I’m currently a System Test Analyst with Accenture. Quality Assurance Engineer with Genspark. Web Development Evangelist with NuCamp Coding       BootCamp.
 - 👯 Attending NuCamp Coding BootCamp for some new skills. 
 - 🤔 Ask me about NuCamp I can save you 5% on Registration.
 - 💬 Ask me about most anything I am pretty honest and I try to treat others as I want to be treated.
