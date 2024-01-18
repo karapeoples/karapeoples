@@ -4,11 +4,12 @@ You found me! I am Kara Renee Peoples! FullStack Engineer and Quality Assurance 
 
 
 - 🔭 Lambda School Graduate/Alumni aka BloomTech
-- 🌱 I’m currently looking for a new Front End/Full Stack Development role or something in Automated QA.
-- 👯 Planning on enrolling for a BS in Computer Science in the near future. 
-- 🤔 Always Learning new things.
+- 👩🏻‍🎓 Currently pursuing an AAS at Eastern Oklahoma State Collge in Software Development.
+- 🌱 I’m currently looking for a new paying role as a Software Engineer.
+- 👯 Volunteer for an open-source organization to improve and keep skills sharp. [OPPIA Foundation](https://www.oppia.org/)
+- 🤔 Always Learning.
 - 💬 Ask me about almost anything I am pretty honest and I try to treat others as I want to be treated.
-- 📫 How to reach me: karapeoples.dev@gmail.com or @KaraPeoples_Dev on Twitter or look me up by name on LinkedIn.
-- ⚡ Fun fact: My name in Gailic Kara (means Dear One) Renee (means born again) so Kara Renee (Dear One born again) but in Irish
-     Kara (means friend) and my maiden name Durham (means woodland creatures) so my maiden name Kara Durham (Friend of Woodland Creatures).
+- 📫 How to reach me: karapeoples.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/karapeoples/).
+- ⚡ Fun fact: My name is Gailic and Kara (means Dear One) Renee (means born again) so Kara Renee (Dear One born again) but in Irish
+     Kara (means friend) and my maiden name Durham (means woodland creatures) so my maiden name is Kara Durham (Friend of Woodland Creatures).
 
