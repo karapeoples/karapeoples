@@ -1,6 +1,6 @@
 ### HiHi 🤗
 
-You found me! I am Kara Renee Peoples! FullStack Engineer and Quality Assurance Engineer, which feels good to say! My path is [Disabled to Software Engineer](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6898716482310590464) Nice to Meet Ya:
+You found me! I am Kara Renee Peoples! Software Engineer, which feels good to say! My path is [Disabled to Software Engineer](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6898716482310590464) Nice to Meet Ya:
 
 
 - 🔭 Lambda School Graduate/Alumni aka BloomTech
