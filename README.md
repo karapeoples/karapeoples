@@ -10,6 +10,6 @@ You found me! I am Kara Renee Peoples! Software Engineer, which feels good to sa
 - 🤔 Always Learning.
 - 💬 Ask me about almost anything I am pretty honest and I try to treat others as I want to be treated.
 - 📫 How to reach me: karapeoples.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/karapeoples/).
-- ⚡ Fun fact: My name is Gailic and Kara (means Dear One) Renee (means born again) so Kara Renee (Dear One born again) but in Irish
+- ⚡ Fun fact: My name is Gaelic and Kara (means Dear One) Renee (means born again) so Kara Renee (Dear One born again) but in Irish
      Kara (means friend) and my maiden name Durham (means woodland creatures) so my maiden name is Kara Durham (Friend of Woodland Creatures).
 
