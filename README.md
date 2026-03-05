@@ -1,15 +1,30 @@
-### HiHi 🤗
+## Hi there 👋 I'm Kara Peoples
 
-You found me! I am Kara Renee Peoples! Software Engineer, which feels good to say! My path is [Disabled to Software Engineer](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6898716482310590464) Nice to Meet Ya:
+Technical professional with a background in **Quality Assurance, technical support, and web development foundations**, with a strong interest in **documentation, systems thinking, and developer workflows**.
 
+I enjoy working where **technology and people meet** — validating systems, troubleshooting issues, and translating complex processes into clear, practical documentation.
 
-- 🔭 Lambda School Graduate/Alumni aka BloomTech
-- 👩🏻‍🎓 Currently pursuing an AAS at Eastern Oklahoma State Collge in Software Development.
-- 🌱 I’m currently looking for a new paying role as a Software Engineer.
-- 👯 Volunteer for an open-source organization to improve and keep skills sharp. [OPPIA Foundation](https://www.oppiafoundation.org/) and Live Site of [Current Project](https://www.oppia.org/)
-- 🤔 Always Learning.
-- 💬 Ask me about almost anything I am pretty honest and I try to treat others as I want to be treated.
-- 📫 How to reach me: karapeoples.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/karapeoples/).
-- ⚡ Fun fact: My name is Gaelic and Kara (means Dear One) Renee (means born again) so Kara Renee (Dear One born again) but in Irish
-     Kara (means friend) and my maiden name Durham (means woodland creatures) so my maiden name is Kara Durham (Friend of Woodland Creatures).
+### Currently focused on
+• Technical documentation and developer onboarding guides  
+• QA testing and system validation  
+• API documentation and workflow documentation  
+• Continuous learning in modern web technologies  
+
+### Current Work
+• Building a **Technical Documentation Portfolio**  
+• Exploring opportunities in **QA, Technical Support, and Documentation roles**
+
+### Projects
+• Technical Documentation Portfolio  
+• API documentation and setup guides  
+• React and Node development projects
+
+### Contact
+📫 karaepeoples.dev@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/karapeoples)
+
+---
+
+*"Success consists of going from failure to failure without loss of enthusiasm."*  
+— Winston Churchill
 
