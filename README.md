@@ -9,27 +9,33 @@ I enjoy working where **technology and people meet** — validating systems, tro
 📚 [**Technical Documentation Portfolio**](https://github.com/karapeoples/technical-documentation-portfolio)
 
 Examples include:
+
 • API reference documentation  
 • Developer setup guides  
 • Workflow and architecture documentation
 
 ### Currently focused on
+
 • Technical documentation and developer onboarding guides  
 • QA testing and system validation  
 • API documentation and workflow documentation  
 • Continuous learning in modern web technologies  
 
 ### Current Work
+
 • Building a **Technical Documentation Portfolio**  
 • Exploring opportunities in **QA, Technical Support, and Documentation roles**
 
 ### Projects
+
 • Technical Documentation Portfolio  
 • API documentation and setup guides  
 • React and Node development projects
 
 ### Contact
+
 📫 karaepeoples.dev@gmail.com  
+
 💼 [LinkedIn](https://www.linkedin.com/in/karapeoples)
 
 ---
