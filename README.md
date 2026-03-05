@@ -4,6 +4,15 @@ Technical professional with a background in **Quality Assurance, technical suppo
 
 I enjoy working where **technology and people meet** — validating systems, troubleshooting issues, and translating complex processes into clear, practical documentation.
 
+## Featured Work
+
+📚 [**Technical Documentation Portfolio**](https://github.com/karapeoples/technical-documentation-portfolio)
+
+Examples include:
+• API reference documentation  
+• Developer setup guides  
+• Workflow and architecture documentation
+
 ### Currently focused on
 • Technical documentation and developer onboarding guides  
 • QA testing and system validation  
