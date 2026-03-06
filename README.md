@@ -14,6 +14,14 @@ Examples include:
 • Developer setup guides  
 • Workflow and architecture documentation
 
+## Writing & Learning in Public
+
+I write about software development, open source learning, and career growth.
+
+**LinkedIn Newsletters**
+
+✍️ [Learning from Open Source](https://www.linkedin.com/newsletters/learning-from-open-source-7153949983069638656/)  
+✍️ [Keep Moving Forward: My Journey](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6898716482310590464)
 
 ## Currently Focused On
 
