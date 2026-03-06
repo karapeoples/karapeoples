@@ -34,7 +34,7 @@ Examples include:
 
 ### Contact
 
-📫 karaepeoples.dev@gmail.com  
+📫 karapeoples.dev@gmail.com  
 
 💼 [LinkedIn](https://www.linkedin.com/in/karapeoples)
 
