@@ -43,7 +43,7 @@ Contact
 
 📫 karapeoples.dev@gmail.com
 
-💼 [LinkedIn](https://www.linkedin.com/in/karapeoples
+💼 [LinkedIn](https://www.linkedin.com/in/karapeoples)
 
 "Success consists of going from failure to failure without loss of enthusiasm."
 — Winston Churchill
