@@ -26,6 +26,12 @@ Examples include:
 • Building a **Technical Documentation Portfolio**  
 • Exploring opportunities in **QA, Technical Support, and Documentation roles**
 
+### Currently Learning
+
+• JavaScript fundamentals refresh
+• Open source documentation workflows
+• Front-end debugging and testing patterns
+
 ### Projects
 
 • Technical Documentation Portfolio  
