@@ -17,27 +17,27 @@ Examples include:
 
 ## Currently Focused On
 
-• Technical documentation and developer onboarding guides
-• QA testing and system validation
-• API documentation and workflow documentation
-• Continuous learning in modern web technologies
+• Technical documentation and developer onboarding guides  
+• QA testing and system validation  
+• API documentation and workflow documentation  
+• Continuous learning in modern web technologies  
 
 ## Current Work
 
-• Building a Technical Documentation Portfolio
+• Building a Technical Documentation Portfolio  
 • Exploring opportunities in QA, Technical Support, and Technical Documentation roles
 
 ## Currently Learning
 
-• Refreshing JavaScript fundamentals
-• Open source documentation workflows
-• Front-end debugging and testing patterns
+• Refreshing JavaScript fundamentals  
+• Open source documentation workflows  
+• Front-end debugging and testing patterns  
 
 ## Projects
 
-• Technical Documentation Portfolio
-• API documentation and setup guides
-• React and Node development projects
+• Technical Documentation Portfolio  
+• API documentation and setup guides  
+• React and Node development projects  
 
 Contact
 
