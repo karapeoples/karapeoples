@@ -5,7 +5,7 @@ Welcome to my digital workspace! I'm a technical professional with a foundation 
 
 I **learn out loud**, share my development quests, and build documentation pipelines in public.
 
-🚀 **Watch Me Code: [YouTube](https://www.youtube.com/channel/UCIsKD0iTNB70q6vxBm32SbQ)**  
+🚀 **Watch Me Code: [YouTube](www.youtube.com/@karapeoples78)**  
 🌐 **Interactive React Portfolio: [bit.ly/Kara_Peoples](https://bit.ly/Kara_Peoples)**
 
 ### 🛠️ Tech Stack & Content Ecosystem
