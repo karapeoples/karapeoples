@@ -29,7 +29,7 @@ I believe documentation should have flair. Follow my journey across platforms as
 *   💻 [**Information Architecture Spec: Modular Portfolio**](https://github.com/karapeoples/portfolio-v1) — The native code, design system breakpoints, and asset audits driving my active portfolio site.
 *   ✍️ [**Creative Fiction Portfolio**](https://github.com/karapeoples/creative-writing-portfolio) — Master documentation repository for multi-disciplinary writing samples, tracking frameworks, and content pipelines.
 *   📐 [**Project Spec: "Elemental Guardians" Excerpt**](https://github.com/karapeoples/creative-writing-portfolio/blob/main/elemental-guardians-excerpt.md) — Fiction sample showcasing contemporary narrative dialogue pacing, character subtext, and world-building tension.
-*   🐉 [**System Docs: D&D Campaign Logs**](https://github.com/karapeoples/creative-writing-portfolio/blob/main/dnd-campaign-system-docs.md) — Structural character sheets, inventory tables, and lore architecture for 5e/3e modules.
+*   🐉 [**System Docs: D&D Campaign Logs**](https://github.com/karapeoples/D-D_Campaign_Log_Sample) — Structural character sheets, inventory tables, and lore architecture for 5e/3e modules.
 *   🐱 [**Copywriting Pass: Rescue Animal Blog**](https://github.com/karapeoples/creative-writing-portfolio/blob/main/rescue-animal-blog.md) — Perspective-driven campaign marketing and emotional brand copywriting.
 *   🩺 [**Patient Advocacy Documentation: Healthcare Guide For Those With No Insurance**](https://github.com/karapeoples/creative-writing-portfolio/blob/main/patient-advocacy-documentation.md) — A procedural guide translating dense healthcare bureaucracy into a clear, stress-reducing roadmap.
 
